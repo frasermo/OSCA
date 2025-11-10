@@ -1,46 +1,33 @@
-# openScopes Connect Africa (OSCA)
+# openScope Traveller (OSCA)
 
-Welcome to the **openScopes Connect Africa (OSCA)** repository.
+This repository contains hardware, software, and user documentation for the **openScope Traveller**—a modular, field-deployable brightfield and fluorescence imaging platform.
 
-This repository provides comprehensive documentation, code, and resources for the **openScopes Connect Africa system**, including assembly instructions, specifications, and operational procedures.
+> **Status:** Draft v0.1 (July 2025). See [Revision History](docs/project/REVISION_HISTORY.md).
 
----
+## Quick Links
+- **Getting Started (5‑minute setup):** [docs/getting-started/QUICKSTART.md](docs/getting-started/QUICKSTART.md)
+- **Full Assembly Guide:** [docs/hardware/ASSEMBLY_GUIDE.md](docs/hardware/ASSEMBLY_GUIDE.md)
+- **Software Guide (Micro‑Manager):** [docs/software/SOFTWARE_GUIDE.md](docs/software/SOFTWARE_GUIDE.md)
+- **Data Management:** [docs/operations/DATA_MANAGEMENT.md](docs/operations/DATA_MANAGEMENT.md)
+- **Maintenance & Cleaning:** [docs/operations/MAINTENANCE.md](docs/operations/MAINTENANCE.md)
+- **Troubleshooting:** [docs/operations/TROUBLESHOOTING.md](docs/operations/TROUBLESHOOTING.md)
+- **Technical Specs:** [docs/project/TECH_SPECS.md](docs/project/TECH_SPECS.md)
 
-## Contents
+## Repository Structure
+```
+.
+├─ docs/
+│  ├─ getting-started/
+│  ├─ hardware/
+│  ├─ software/
+│  ├─ operations/
+│  ├─ references/
+│  └─ project/
+├─ images/
+├─ LICENSE.md
+└─ CONTRIBUTING.md
+```
 
-- **System Overview**  
-  Introduction to the traveller system and its purpose.
-
-- **Specifications & Requirements**  
-  Detailed technical and operational parameters.
-
-- **User Guides**  
-  Step-by-step instructions for setup and operation.
-
-- **Assembly Instructions**  
-  Guidance for hardware assembly and configuration.
-
-- **Operating Procedures**  
-  Recommended workflow for safe and effective operation.
-
-- **Instructional Videos**  
-  Links to video tutorials and demonstrations.
-
-- **CAD Resources**  
-  Access to design files hosted on the Imperial repository.
-
-- **Code Implementations**  
-  Software components and control scripts.
-
-- **Acknowledgements**  
-  Recognition of contributors and collaborators.
-
----
-
-## Installation
-
-To get started, clone this repository:
-
-```bash
-git clone https://github.com/frasermo/OSCA.git
-cd OSCA
+## Licenses
+- **Hardware & Docs:** MIT (see `LICENSE.md`).
+- Images and trademarks remain the property of their respective owners.
