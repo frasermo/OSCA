@@ -1,0 +1,46 @@
+site_name: OSCA Documentation
+site_description: openScope Traveller Imaging Platform
+site_author: openScopes Connect Africa Initiative
+docs_dir: docs
+
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - search.highlight
+    - search.suggest
+
+nav:
+  - Home: Home.md
+  - Getting Started:
+      - Quickstart: getting-started/QUICKSTART.md
+      - Safety & Handling: getting-started/SAFETY.md
+      - Kit Overview: getting-started/KIT_OVERVIEW.md
+      - Inventory & Unpacking: getting-started/INVENTORY.md
+  - Hardware:
+      - Assembly Guide: hardware/ASSEMBLY_GUIDE.md
+      - Cabling & Power: hardware/CABLING.md
+      - IRIS-400 Setup: hardware/IRIS400_SETUP.md
+      - Objectives & Stage: hardware/OBJECTIVES_STAGE.md
+  - Software:
+      - Software Guide: software/SOFTWARE_GUIDE.md
+      - Brightfield Imaging: software/BRIGHTFIELD.md
+      - Fluorescence Imaging: software/FLUORESCENCE.md
+      - ScopeView: software/SCOPEVIEW.md
+  - Operations:
+      - Data Management: operations/DATA_MANAGEMENT.md
+      - Maintenance & Cleaning: operations/MAINTENANCE.md
+      - Disassembly & Storage: operations/DISASSEMBLY.md
+      - Troubleshooting: operations/TROUBLESHOOTING.md
+  - References:
+      - Fluorophore Excitation Reference: references/FLUOROPHORE_REFERENCE.md
+      - Histograms 101: references/HISTOGRAMS.md
+  - Project:
+      - Technical Specifications: project/TECH_SPECS.md
+      - CAD & Repos: project/CAD_AND_REPOS.md
+      - Docs Style Guide: project/DOCS_STYLE.md
+      - Revision History: project/REVISION_HISTORY.md
+
+plugins:
+  - search

@@ -1,5 +1,7 @@
 # Assembly Guide
 
+The complete assembly guide is available in the manual. See the [Assembly Guide](hardware/ASSEMBLY_GUIDE.md) for detailed steps. Below is condensed version to get familiar with the Traveller.
+
 Allocate ~2 hours. Wear gloves; protect optics.
 
 ## Step 0 — Toolkit
@@ -41,7 +43,7 @@ Use only the supplied tools: **T01 PH1**, **T02 2.0 mm**, **T03 2.5 mm**, **T04 
 6. Place **OF21** slide holder on stage (magnetic).
 7. Remove two **transport screws** on multiband cube (both sides) and two on mirror slider (**T04**). Store safely.
 
-## Step 7 — Finalize
+## Step 7 — Finalise
 - Connect laptop power **OF28**; power Kikker and IRIS.
 - Install only required objectives in the turret; rotate turret manually.
 - Proceed to the Software Guide.

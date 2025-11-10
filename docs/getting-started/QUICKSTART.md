@@ -1,5 +1,7 @@
 # Quickstart (5–10 minutes)
 
+The full user guide is available here: See the [Assembly Guide](hardware/ASSEMBLY_GUIDE.md) for detailed steps.
+
 1. Place **OF01 openFrame** on a stable, low‑vibration surface (≥110×80 cm). Do **not** move after assembly.
 2. Mount **OF02 Stage & Transillumination**: align arrows →1/→2; tighten **S02/S03** with **T03 (2.5 mm hex)**.
 3. Attach **OF03 Transillumination**: USB toward pillar; seat onto posts; tighten the two top screws (**T03**).

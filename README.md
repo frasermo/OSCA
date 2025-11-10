@@ -1,6 +1,6 @@
-# openScope Traveller (OSCA)
+# openScopes Connect Africa (OSCA) Traveller
 
-This repository contains hardware, software, and user documentation for the **openScope Traveller**—a modular, field-deployable brightfield and fluorescence imaging platform.
+This repository contains hardware, software, and user documentation for the **openScopes Traveller**—a modular, field-deployable brightfield and fluorescence imaging platform.
 
 > **Status:** Draft v0.1 (July 2025). See [Revision History](docs/project/REVISION_HISTORY.md).
 
