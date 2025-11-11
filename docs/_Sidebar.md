@@ -1,0 +1,30 @@
+# OSCA Wiki
+- **Home** → [[Home]]
+- Getting Started
+  - [[Quickstart|getting-started/QUICKSTART]]
+  - [[Safety & Handling|getting-started/SAFETY]]
+  - [[Kit Overview|getting-started/KIT_OVERVIEW]]
+  - [[Inventory & Unpacking|getting-started/INVENTORY]]
+- Hardware
+  - [[Assembly Guide|hardware/ASSEMBLY_GUIDE]]
+  - [[Cabling & Power|hardware/CABLING]]
+  - [[IRIS‑400 Setup|hardware/IRIS400_SETUP]]
+  - [[Objectives & Stage|hardware/OBJECTIVES_STAGE]]
+- Software
+  - [[Software Guide|software/SOFTWARE_GUIDE]]
+  - [[Brightfield Imaging|software/BRIGHTFIELD]]
+  - [[Fluorescence Imaging|software/FLUORESCENCE]]
+  - [[ScopeView|software/SCOPEVIEW]]
+- Operations
+  - [[Data Management|operations/DATA_MANAGEMENT]]
+  - [[Maintenance & Cleaning|operations/MAINTENANCE]]
+  - [[Disassembly & Storage|operations/DISASSEMBLY]]
+  - [[Troubleshooting|operations/TROUBLESHOOTING]]
+- References
+  - [[Fluorophore Excitation Reference|references/FLUOROPHORE_REFERENCE]]
+  - [[Histograms 101|references/HISTOGRAMS]]
+- Project
+  - [[Technical Specifications|project/TECH_SPECS]]
+  - [[CAD & Repos|project/CAD_AND_REPOS]]
+  - [[Docs Style Guide|project/DOCS_STYLE]]
+  - [[Revision History|project/REVISION_HISTORY]]
