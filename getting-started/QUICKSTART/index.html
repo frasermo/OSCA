@@ -68,7 +68,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#quickstart-510-minutes" class="md-skip">
+        <a href="#quickstart" class="md-skip">
           Skip to content
         </a>
       
@@ -1197,21 +1197,22 @@
 
 
 
-<h1 id="quickstart-510-minutes">Quickstart (5–10 minutes)</h1>
-<p>The full user guide is available here: See the <a href="hardware/ASSEMBLY_GUIDE.md">Assembly Guide</a> for detailed steps.</p>
+<h1 id="quickstart">Quickstart</h1>
+<p>This manual covers the Traveller’s <strong>assembly</strong>, <strong>software setup</strong>, <strong>operation</strong>, and <strong>maintenance</strong>. While the Traveller represents a compact implementation of the openFrame ecosystem, users should note that the framework supports larger and more elaborate designs. These extended systems can include additional imaging modalities and integrations for core imaging facilities. Although beyond the scope of this manual, such expansions remain available for advanced users and institutions seeking enhanced capabilities.</p>
+<p>The full assembly guide and user manual is available here: See the <a href="/hardware/ASSEMBLY_GUIDE">Assembly Guide</a> for detailed steps.</p>
 <ol>
 <li>Place <strong>OF01 openFrame</strong> on a stable, low‑vibration surface (≥110×80 cm). Do <strong>not</strong> move after assembly.</li>
-<li>Mount <strong>OF02 Stage &amp; Transillumination</strong>: align arrows →1/→2; tighten <strong>S02/S03</strong> with <strong>T03 (2.5 mm hex)</strong>.</li>
-<li>Attach <strong>OF03 Transillumination</strong>: USB toward pillar; seat onto posts; tighten the two top screws (<strong>T03</strong>).</li>
-<li>Install cameras: <strong>OF09 Kikker (mono)</strong> and <strong>OF11 Rana (color)</strong> with labels up; hand‑tighten (don’t over‑tighten).</li>
-<li>Fit <strong>OF04 IRIS‑400</strong>: add <strong>OF06 ring adaptor</strong> (three grub screws <strong>T02</strong>), insert <strong>OF07</strong> tube to the guideline, support body on <strong>OF08 pedestal</strong> ~20 cm left of IRIS port.</li>
+<li>Mount <strong>OF02 Stage &amp; Transillumination</strong>: align arrows →1/→2; tighten <strong>S02/S03</strong> using <strong>2.5 mm hex (T03)</strong>.</li>
+<li>Attach <strong>OF03 Transillumination</strong>: USB toward pillar; seat onto posts; tighten the two top screws using <strong>2.5 mm hex (T03)</strong>.</li>
+<li>Install cameras: <strong>OF09 Kikker (mono)</strong> and <strong>OF11 Rana (color)</strong> with labels up; hand‑tighten (do not over tighten).</li>
+<li>Fit <strong>OF04 IRIS‑400</strong>: add <strong>OF06 ring adaptor</strong> (three grub screws <strong>2.0 mm hex (T02)</strong>), insert <strong>OF07</strong> tube to the guideline, support body on <strong>OF08 pedestal</strong> ~20 cm left of IRIS port.</li>
 <li>Cable up:</li>
 <li><strong>IRIS</strong>: <strong>OF22</strong> controller OUTPUT ⇄ <strong>OF04</strong> via <strong>OF19</strong>; power via <strong>OF23</strong> (arrows up).</li>
 <li><strong>Cameras</strong>: <strong>OF16 USB + OF20 12V</strong> → Kikker; <strong>OF15 USB</strong> → Rana.</li>
 <li><strong>Hub</strong>: <strong>OF17</strong> → Laptop (P01).</li>
 <li><strong>Transillumination</strong>: <strong>OF18 USB‑C</strong> → Laptop (P02).</li>
-<li>Remove <strong>transport screws</strong> on multiband cube and mirror slider; store safely.</li>
-<li>Power laptop; login <strong>IDM / OSCA2025</strong>. Launch <strong>Micro‑Manager</strong>, choose <strong>Default User</strong>, config: <code>CellCam MultimodeLED.cfg</code>.</li>
+<li>Remove <strong>transport screws</strong> on multiband cube and mirror slider using <strong>3.0 mm hex (T04)</strong>; store safely.</li>
+<li>Power laptop; login. Launch <strong>Micro‑Manager</strong>, choose <strong>Default User</strong>, config: <code>CellCam MultimodeLED.cfg</code>.</li>
 <li><strong>Brightfield</strong>: filter to <strong>Empty</strong>, Channel → <strong>Mid RGB</strong>, <strong>Live</strong>, exposure <strong>1–50 ms</strong> typical.</li>
 <li><strong>Fluorescence</strong>: filter to <strong>Multiband</strong>, camera <strong>Kikker</strong>, IRIS <strong>R/G/B/UV</strong> LED, <strong>Live</strong>, exposure <strong>100–800 ms</strong> typical.</li>
 </ol>
