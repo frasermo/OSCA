@@ -25,7 +25,7 @@ By maintaining compatibility with open-source software tools such as Micro-Manag
 ## Traveller Manual
 
 The openScope Traveller Imaging Platform User Guide and Assembly Manual may be found here:
-[User Guide and Assembly Manual](../assets/documentation/traveller_manual.pdf){:target="_blank"}
+[User Guide and Assembly Manual](docs/assets/documentation/traveller_manual.pdf){:target="_blank"}
 
 ---
 
