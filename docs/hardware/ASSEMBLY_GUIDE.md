@@ -1,6 +1,8 @@
 # Assembly Guide
 
-The complete assembly guide is available in the manual. See the [Manual](hardware/ASSEMBLY_GUIDE.md) for detailed steps. Below is condensed version to get familiar with the Traveller.
+The openScope Traveller Imaging Platform User Guide and Assembly Manual may be found here:
+[User Guide and Assembly Manual](../assets/documentation/traveller_manual.pdf){:target="_blank"}.
+Below is condensed version to get familiar with the Traveller.
 
 Allocate ~2 hours. Wear gloves; protect optics.
 

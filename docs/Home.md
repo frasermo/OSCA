@@ -11,13 +11,31 @@ The Traveller is adapted from the openFrame microscope, a modular and cost-effec
 
 By maintaining compatibility with open-source software tools such as Micro-Manager and ImageJ/Fiji, openFrame-based microscopes remain easy to maintain, simple to upgrade, and adaptable to most light microscopy techniques. This ensures that Traveller users benefit from both hardware modularity and software flexibility.
 
+---
+
+## Key Features
+
+- Portable (fits two Pelican cases)  
+- Modular optical/illumination design (filter cubes, stackable layers)  
+- Preconfigured software (Micro‑Manager) 
+- Brightfield & fluorescence imaging; time-lapse capable  
+
+---
+
+## Traveller Manual
+
+The openScope Traveller Imaging Platform User Guide and Assembly Manual may be found here:
+[User Guide and Assembly Manual](../assets/documentation/traveller_manual.pdf){:target="_blank"}
+
+---
+
 **See the following pages for more information on the openScopes ecosystem:**
 
 - **GitHub**
     [openScope Traveller GitHub](https://github.com/frasermo/OSCA){:target="_blank"}
 
 - **YouTube**
-    [openScope Traveller YouTube channel](https://youtu.be/Y0lEH0RwTDU){:target="_blank"}
+    [openScope Traveller YouTube channel](https://www.youtube.com/@openScopeTraveller){:target="_blank"}
 
 - **GitHub Pages**
     [openScope Traveller GitHub Pages](https://frasermo.github.io/OSCA){:target="_blank"}
@@ -25,18 +43,31 @@ By maintaining compatibility with open-source software tools such as Micro-Manag
 - **openFrame**
      [openFrame GitHub](https://github.com/ImperialCollegeLondon/openFrame){:target="_blank"}
 
+---
 
-**Compliance & Purpose**
-- IEEE 1063 Software User Documentation
-- ISO/IEC 82079‑1 Instructions for use
-- ISO/IEC 26514 Documentation for end users
+## Compliance & Purpose
+
+- IEEE 1063 Software User Documentation  
+- ISO/IEC 82079‑1 Instructions for use  
+- ISO/IEC 26514 Documentation for end users  
 
 **Intended audience:** microscopy specialists, technical staff, researchers.
 
-**Key features**
-- Portable (fits two Pelican cases)
-- Modular optical/illumination design (filter cubes, stackable layers)
-- Preconfigured software (Micro‑Manager) for fast startup
-- Brightfield & fluorescence imaging; time‑lapse capable
+---
 
-Start with [[Quickstart →|getting-started/QUICKSTART]].
+## Acknowledgements
+
+The development of the Traveller was carried out by **Fraser Montandon**, **Jasmin Knopp**, and **Caron Jacobs**.  
+
+We gratefully acknowledge the support of the **Institute of Infectious Disease and Molecular Medicine (IDM)** and the **Department of Electrical Engineering** at the University of Cape Town, and the **Wellcome Trust**.
+
+We also thank the many **testers and early users** who contributed feedback during the iterative development of this system, helping to improve usability, reliability, and field readiness.
+
+We further recognise the broader open-source microscopy and scientific imaging communities, whose contributions continue to inspire accessible and modular imaging solutions.  
+
+This work builds upon the collaborative spirit exemplified by the **openScopes** project, conceived by **Paul French** and colleagues at Imperial College London, which has set a benchmark for open, reproducible, and low-cost scientific instrumentation.
+
+!!! tip "Getting Started"
+    Start with the [Quickstart guide](getting-started/QUICKSTART.md) to begin using the Traveller.
+
+

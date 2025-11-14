@@ -2,7 +2,7 @@
 
 This manual covers the Traveller’s **assembly**, **software setup**, **operation**, and **maintenance**. While the Traveller represents a compact implementation of the openFrame ecosystem, users should note that the framework supports larger and more elaborate designs. These extended systems can include additional imaging modalities and integrations for core imaging facilities. Although beyond the scope of this manual, such expansions remain available for advanced users and institutions seeking enhanced capabilities.
 
-The full assembly guide and user manual is available here: See the [Assembly Guide](/hardware/ASSEMBLY_GUIDE) for detailed steps.
+The full assembly guide and user manual is available here: See the [Assembly Guide](../hardware/ASSEMBLY_GUIDE.md) for detailed steps.
 
 1. Place **OF01 openFrame** on a stable, low‑vibration surface (≥110×80 cm). Do **not** move after assembly.
 2. Mount **OF02 Stage & Transillumination**: align arrows →1/→2; tighten **S02/S03** using **2.5 mm hex (T03)**.
